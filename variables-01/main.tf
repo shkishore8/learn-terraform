@@ -45,7 +45,7 @@ variable "image_ids" {
 }
 
 output "image_ids" {
-  value = var.image_ids["0"]
+  value = var.image_ids["a"]
 }
 
 
