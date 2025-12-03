@@ -49,3 +49,17 @@ output "image_ids" {
 }
 
 
+# Not having a default values
+
+variable "input_value1" {
+  type = number
+}
+
+variable "input_value2" {}
+
+variable "instance_type" {
+  type    = string
+  default = null
+}
+
+
