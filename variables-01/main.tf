@@ -7,3 +7,7 @@ variable "env" {
 output "env" {
   value = var.env
 }
+
+output "enva" {
+  value = "${var.env}01"
+}
