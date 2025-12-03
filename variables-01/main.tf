@@ -31,5 +31,5 @@ variable "availability_zones" {
 }
 
 output "availability_zones" {
-  value = var.availability_zones
+  value = var.availability_zones[0]
 }
