@@ -7,7 +7,7 @@ resource "aws_instance" "web" {
   }
 }
 
-resource "aws_route53_record" "www" {
+resource "aws_route53_record" "frontend" {
   zone_id = "Z04751093FJLNWEV5LUJS"
   name    = "test"
   type    = "A"
