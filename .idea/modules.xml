@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/learn-terraform.iml" filepath="$PROJECT_DIR$/.idea/learn-terraform.iml" />
       <module fileurl="file://$PROJECT_DIR$/../roboshop-terraform-v1/roboshop-terraform-v1.iml" filepath="$PROJECT_DIR$/../roboshop-terraform-v1/roboshop-terraform-v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../roboshop-terraform-v2/roboshop-terraform-v2.iml" filepath="$PROJECT_DIR$/../roboshop-terraform-v2/roboshop-terraform-v2.iml" />
     </modules>
   </component>
 </project>
