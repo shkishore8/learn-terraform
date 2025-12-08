@@ -4,5 +4,7 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../roboshop-terraform-v1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../roboshop-terraform-v2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../roboshop-terraform-v3" vcs="Git" />
   </component>
 </project>

@@ -3,9 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/learn-terraform.iml" filepath="$PROJECT_DIR$/.idea/learn-terraform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../roboshop-ansible-templates/roboshop-ansible-templates.iml" filepath="$PROJECT_DIR$/../roboshop-ansible-templates/roboshop-ansible-templates.iml" />
       <module fileurl="file://$PROJECT_DIR$/../roboshop-terraform-v1/roboshop-terraform-v1.iml" filepath="$PROJECT_DIR$/../roboshop-terraform-v1/roboshop-terraform-v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/../roboshop-terraform-v2/roboshop-terraform-v2.iml" filepath="$PROJECT_DIR$/../roboshop-terraform-v2/roboshop-terraform-v2.iml" />
       <module fileurl="file://$PROJECT_DIR$/../roboshop-terraform-v3/roboshop-terraform-v3.iml" filepath="$PROJECT_DIR$/../roboshop-terraform-v3/roboshop-terraform-v3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../roboshop-terraform-v4/roboshop-terraform-v4.iml" filepath="$PROJECT_DIR$/../roboshop-terraform-v4/roboshop-terraform-v4.iml" />
     </modules>
   </component>
 </project>
